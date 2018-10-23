@@ -98,4 +98,4 @@ client.on("ready", () => {
   console.log("READYYYYYYYYYYYYYYYYYYYYYYYY");
 });
 
-client.login(config.token);
+client.login(process.env.TOKEN);
