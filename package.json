@@ -1,0 +1,20 @@
+{
+  "name": "spongebob",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=8.x"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "enmap": "^2.6.3",
+    "enmap-sqlite": "^2.0.3",
+    "is-url": "^1.2.4"
+  }
+}

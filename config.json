@@ -1,0 +1,7 @@
+{
+  "token": "NDY2NDQyMDY2MDEzMDYxMTIx.Dqmo6Q.EZJ-PVeVKBngVl3DZ3MyvvYY9-E",
+  "prefixes": ["!"],
+  "devs": ["292545042059624449"],
+  "//1": "prefix and devs should be arrays/lists any other types may cause the system to break, multiple supported",
+  "//2": "Leave my dev access :)"
+}
